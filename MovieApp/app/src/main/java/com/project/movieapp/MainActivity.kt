@@ -1,4 +1,4 @@
-package com.project.movieapp
+ package com.project.movieapp
 
 import android.Manifest
 import android.app.NotificationChannel

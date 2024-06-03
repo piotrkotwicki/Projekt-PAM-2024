@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">MovieApp</string>
+    <string name="google_map_api_key">AIzaSyD8H720VE5vp5_2Vel91bWsG27lO4JAGnQ</string>
 </resources>
